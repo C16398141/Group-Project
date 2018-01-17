@@ -3,9 +3,7 @@
 ** Q1 Describe and define web multi-tier application architecture - 10 marks
 
 
-
-Q2
-A) List the seven stages of the Web Life Cycle Model and provide a brief discussion on each of them - 14 marks
+** Q2 a) List the seven stages of the Web Life Cycle Model and provide a brief discussion on each of them - 14 marks
 
 	1. Define the mission of the web site and the user population
 	This level involves determining the project goal and running a feasibility study amongst the client and web development services, taking into consideration various factors like project cost, equipment cost, practicality etc.
