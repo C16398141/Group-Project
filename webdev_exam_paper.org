@@ -24,5 +24,5 @@
 	Finally the web development services deploy and install the system after getting formally approved by the client. 
 	
 	7. Evaluate and improve the site
-	The web development services not only make sure the installation of the application but they are also responsible for subsequent maintenance and upgrading if and when needed.
+	The web development services not only make sure the installation of the application but they are also responsible for subsequent maintenance and upgrading if and when needed. 
 	
