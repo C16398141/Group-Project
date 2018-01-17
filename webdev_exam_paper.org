@@ -5,24 +5,24 @@
 
 ** Q2 a) List the seven stages of the Web Life Cycle Model and provide a brief discussion on each of them - 14 marks
 
-	1. Define the mission of the web site and the user population
+	i. Define the mission of the web site and the user population
 	This level involves determining the project goal and running a feasibility study amongst the client and web development services, taking into consideration various factors like project cost, equipment cost, practicality etc.
 	
-	2. Collect the user requirements of the web site 
+	ii. Collect the user requirements of the web site 
 	Refinement of project goals into defined functions and operations of the proposed application through intensive discussion between web development services and the client is achieved through this step.
 	
-	3. Create the conceptual design of the web site 
+	iii. Create the conceptual design of the web site 
 	Documentation of various details like operations and functions such as screen layouts, process diagrams and other documentation are done here.
 	
-	4. Create the physical design of the web site 
+	iv. Create the physical design of the web site 
 	This is where the expertise of web development services are needed the most when actual back end coding is done.
 	
-	5. Perform usability testing on the web site 
+	v. Perform usability testing on the web site 
 	In this phase the product is put through various testing environments and tools designed and used by web development services to make the product to remove its bugs and errors to ensure harmonious execution.
 	
-	6. Implement and Market the Web Site
+	vi. Implement and Market the Web Site
 	Finally the web development services deploy and install the system after getting formally approved by the client. 
 	
-	7. Evaluate and improve the site
+	vii. Evaluate and improve the site
 	The web development services not only make sure the installation of the application but they are also responsible for subsequent maintenance and upgrading if and when needed. 
 	
